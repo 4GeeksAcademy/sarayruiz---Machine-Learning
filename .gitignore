@@ -2,4 +2,5 @@ __pycache__
 .env
 .learn
 venv/
-
+models/*.h5
+models/*.keras
